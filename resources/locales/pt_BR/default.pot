@@ -1,0 +1,1362 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2020-07-30 01:39+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AssessmentTemplatesController.php:53
+#: Controller/AssessmentTemplatesController.php:77
+msgid "The assessment template has been saved."
+msgstr ""
+
+#: Controller/AssessmentTemplatesController.php:57
+#: Controller/AssessmentTemplatesController.php:81
+msgid "The assessment template could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AssessmentTemplatesController.php:98
+msgid "The assessment template has been deleted."
+msgstr ""
+
+#: Controller/AssessmentTemplatesController.php:100
+msgid "The assessment template could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/AssessmentsClassroomsController.php:56
+#: Controller/AssessmentsClassroomsController.php:82
+msgid "The assessments classroom has been saved."
+msgstr ""
+
+#: Controller/AssessmentsClassroomsController.php:60
+#: Controller/AssessmentsClassroomsController.php:86
+msgid "The assessments classroom could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AssessmentsClassroomsController.php:105
+msgid "The assessments classroom has been deleted."
+msgstr ""
+
+#: Controller/AssessmentsClassroomsController.php:107
+msgid "The assessments classroom could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/AssessmentsController.php:56
+#: Controller/AssessmentsController.php:82
+msgid "The assessment has been saved."
+msgstr ""
+
+#: Controller/AssessmentsController.php:60
+#: Controller/AssessmentsController.php:86
+msgid "The assessment could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AssessmentsController.php:105
+msgid "The assessment has been deleted."
+msgstr ""
+
+#: Controller/AssessmentsController.php:107
+msgid "The assessment could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/AssesstementsItemsController.php:56
+#: Controller/AssesstementsItemsController.php:82
+msgid "The assesstements item has been saved."
+msgstr ""
+
+#: Controller/AssesstementsItemsController.php:60
+#: Controller/AssesstementsItemsController.php:86
+msgid "The assesstements item could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AssesstementsItemsController.php:105
+msgid "The assesstements item has been deleted."
+msgstr ""
+
+#: Controller/AssesstementsItemsController.php:107
+msgid "The assesstements item could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ClassroomsController.php:56
+#: Controller/ClassroomsController.php:82
+msgid "The classroom has been saved."
+msgstr ""
+
+#: Controller/ClassroomsController.php:60
+#: Controller/ClassroomsController.php:86
+msgid "The classroom could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ClassroomsController.php:105
+msgid "The classroom has been deleted."
+msgstr ""
+
+#: Controller/ClassroomsController.php:107
+msgid "The classroom could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DepartmentsController.php:56
+#: Controller/DepartmentsController.php:82
+msgid "The department has been saved."
+msgstr ""
+
+#: Controller/DepartmentsController.php:60
+#: Controller/DepartmentsController.php:86
+msgid "The department could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DepartmentsController.php:105
+msgid "The department has been deleted."
+msgstr ""
+
+#: Controller/DepartmentsController.php:107
+msgid "The department could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DependencesController.php:53
+#: Controller/DependencesController.php:77
+msgid "The dependence has been saved."
+msgstr ""
+
+#: Controller/DependencesController.php:57
+#: Controller/DependencesController.php:81
+msgid "The dependence could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DependencesController.php:98
+msgid "The dependence has been deleted."
+msgstr ""
+
+#: Controller/DependencesController.php:100
+msgid "The dependence could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ItemAnswersController.php:56
+#: Controller/ItemAnswersController.php:83
+msgid "The item answer has been saved."
+msgstr ""
+
+#: Controller/ItemAnswersController.php:60
+#: Controller/ItemAnswersController.php:87
+msgid "The item answer could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ItemAnswersController.php:107
+msgid "The item answer has been deleted."
+msgstr ""
+
+#: Controller/ItemAnswersController.php:109
+msgid "The item answer could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ItemsController.php:56
+#: Controller/ItemsController.php:82
+msgid "The item has been saved."
+msgstr ""
+
+#: Controller/ItemsController.php:60
+#: Controller/ItemsController.php:86
+msgid "The item could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ItemsController.php:105
+msgid "The item has been deleted."
+msgstr ""
+
+#: Controller/ItemsController.php:107
+msgid "The item could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/LocationsController.php:53
+#: Controller/LocationsController.php:77
+msgid "The location has been saved."
+msgstr ""
+
+#: Controller/LocationsController.php:57
+#: Controller/LocationsController.php:81
+msgid "The location could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/LocationsController.php:98
+msgid "The location has been deleted."
+msgstr ""
+
+#: Controller/LocationsController.php:100
+msgid "The location could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/SchoolsController.php:56
+#: Controller/SchoolsController.php:81
+msgid "The school has been saved."
+msgstr ""
+
+#: Controller/SchoolsController.php:60
+#: Controller/SchoolsController.php:85
+msgid "The school could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/SchoolsController.php:103
+msgid "The school has been deleted."
+msgstr ""
+
+#: Controller/SchoolsController.php:105
+msgid "The school could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/StudentsController.php:56
+#: Controller/StudentsController.php:81
+msgid "The student has been saved."
+msgstr ""
+
+#: Controller/StudentsController.php:60
+#: Controller/StudentsController.php:85
+msgid "The student could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StudentsController.php:103
+msgid "The student has been deleted."
+msgstr ""
+
+#: Controller/StudentsController.php:105
+msgid "The student could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/SubjectsController.php:53
+#: Controller/SubjectsController.php:77
+msgid "The subject has been saved."
+msgstr ""
+
+#: Controller/SubjectsController.php:57
+#: Controller/SubjectsController.php:81
+msgid "The subject could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/SubjectsController.php:98
+msgid "The subject has been deleted."
+msgstr ""
+
+#: Controller/SubjectsController.php:100
+msgid "The subject could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:56
+#: Controller/UsersController.php:81
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:60
+#: Controller/UsersController.php:85
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:103
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:105
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: AssessmentTemplates/add.php:10
+#: AssessmentTemplates/edit.php:10
+#: AssessmentTemplates/index.php:18
+#: AssessmentTemplates/view.php:10
+#: AssessmentTemplates/view.php:59
+#: Assessments/add.php:10
+#: Assessments/edit.php:10
+#: Assessments/index.php:22
+#: Assessments/view.php:10
+#: Assessments/view.php:69
+#: Assessments/view.php:96
+#: Assessments/view.php:127
+#: AssessmentsClassrooms/add.php:10
+#: AssessmentsClassrooms/edit.php:10
+#: AssessmentsClassrooms/index.php:17
+#: AssessmentsClassrooms/view.php:10
+#: AssesstementsItems/add.php:10
+#: AssesstementsItems/edit.php:10
+#: AssesstementsItems/index.php:17
+#: AssesstementsItems/view.php:10
+#: Classrooms/add.php:10
+#: Classrooms/edit.php:10
+#: Classrooms/index.php:17
+#: Classrooms/view.php:10
+#: Classrooms/view.php:49
+#: Classrooms/view.php:82
+#: Departments/add.php:10
+#: Departments/edit.php:10
+#: Departments/index.php:18
+#: Departments/view.php:10
+#: Departments/view.php:56
+#: Departments/view.php:92
+#: Departments/view.php:122
+#: Dependences/add.php:10
+#: Dependences/edit.php:10
+#: Dependences/index.php:16
+#: Dependences/view.php:10
+#: Dependences/view.php:40
+#: ItemAnswers/add.php:10
+#: ItemAnswers/edit.php:10
+#: ItemAnswers/index.php:21
+#: ItemAnswers/view.php:10
+#: Items/add.php:10
+#: Items/edit.php:10
+#: Items/index.php:21
+#: Items/view.php:10
+#: Items/view.php:89
+#: Locations/add.php:10
+#: Locations/edit.php:10
+#: Locations/index.php:17
+#: Locations/view.php:10
+#: Locations/view.php:44
+#: Schools/add.php:10
+#: Schools/edit.php:10
+#: Schools/index.php:17
+#: Schools/view.php:10
+#: Schools/view.php:43
+#: Students/add.php:10
+#: Students/edit.php:10
+#: Students/index.php:17
+#: Students/view.php:10
+#: Students/view.php:47
+#: Subjects/add.php:10
+#: Subjects/edit.php:10
+#: Subjects/index.php:16
+#: Subjects/view.php:10
+#: Subjects/view.php:48
+#: Users/add.php:10
+#: Users/edit.php:10
+#: Users/index.php:20
+#: Users/view.php:10
+msgid "Actions"
+msgstr ""
+
+#: AssessmentTemplates/add.php:11
+#: AssessmentTemplates/edit.php:16
+#: AssessmentTemplates/view.php:13
+msgid "List Assessment Templates"
+msgstr ""
+
+#: AssessmentTemplates/add.php:18
+msgid "Add Assessment Template"
+msgstr ""
+
+#: AssessmentTemplates/add.php:24
+#: AssessmentTemplates/edit.php:29
+#: Assessments/add.php:29
+#: Assessments/edit.php:34
+#: AssessmentsClassrooms/add.php:24
+#: AssessmentsClassrooms/edit.php:29
+#: AssesstementsItems/add.php:24
+#: AssesstementsItems/edit.php:29
+#: Classrooms/add.php:25
+#: Classrooms/edit.php:30
+#: Departments/add.php:25
+#: Departments/edit.php:30
+#: Dependences/add.php:23
+#: Dependences/edit.php:28
+#: ItemAnswers/add.php:28
+#: ItemAnswers/edit.php:33
+#: Items/add.php:33
+#: Items/edit.php:38
+#: Locations/add.php:24
+#: Locations/edit.php:29
+#: Schools/add.php:24
+#: Schools/edit.php:29
+#: Students/add.php:24
+#: Students/edit.php:29
+#: Subjects/add.php:23
+#: Subjects/edit.php:28
+#: Users/add.php:27
+#: Users/edit.php:32
+msgid "Submit"
+msgstr ""
+
+#: AssessmentTemplates/edit.php:12
+#: AssessmentTemplates/index.php:31
+#: AssessmentTemplates/view.php:75
+#: Assessments/edit.php:12
+#: Assessments/index.php:39
+#: Assessments/view.php:79
+#: Assessments/view.php:106
+#: Assessments/view.php:141
+#: AssessmentsClassrooms/edit.php:12
+#: AssessmentsClassrooms/index.php:29
+#: AssesstementsItems/edit.php:12
+#: AssesstementsItems/index.php:29
+#: Classrooms/edit.php:12
+#: Classrooms/index.php:29
+#: Classrooms/view.php:65
+#: Classrooms/view.php:92
+#: Departments/edit.php:12
+#: Departments/index.php:31
+#: Departments/view.php:75
+#: Departments/view.php:102
+#: Departments/view.php:135
+#: Dependences/edit.php:12
+#: Dependences/index.php:27
+#: Dependences/view.php:51
+#: ItemAnswers/edit.php:12
+#: ItemAnswers/index.php:37
+#: Items/edit.php:12
+#: Items/index.php:37
+#: Items/view.php:99
+#: Locations/edit.php:12
+#: Locations/index.php:29
+#: Locations/view.php:55
+#: Schools/edit.php:12
+#: Schools/index.php:29
+#: Schools/view.php:53
+#: Students/edit.php:12
+#: Students/index.php:29
+#: Students/view.php:61
+#: Subjects/edit.php:12
+#: Subjects/index.php:27
+#: Subjects/view.php:67
+#: Users/edit.php:12
+#: Users/index.php:35
+msgid "Delete"
+msgstr ""
+
+#: AssessmentTemplates/edit.php:14
+#: AssessmentTemplates/index.php:31
+#: AssessmentTemplates/view.php:12
+#: AssessmentTemplates/view.php:75
+#: Assessments/edit.php:14
+#: Assessments/index.php:39
+#: Assessments/view.php:12
+#: Assessments/view.php:79
+#: Assessments/view.php:106
+#: Assessments/view.php:141
+#: AssessmentsClassrooms/edit.php:14
+#: AssessmentsClassrooms/index.php:29
+#: AssessmentsClassrooms/view.php:12
+#: AssesstementsItems/edit.php:14
+#: AssesstementsItems/index.php:29
+#: AssesstementsItems/view.php:12
+#: Classrooms/edit.php:14
+#: Classrooms/index.php:29
+#: Classrooms/view.php:12
+#: Classrooms/view.php:65
+#: Classrooms/view.php:92
+#: Departments/edit.php:14
+#: Departments/index.php:31
+#: Departments/view.php:12
+#: Departments/view.php:75
+#: Departments/view.php:102
+#: Departments/view.php:135
+#: Dependences/edit.php:14
+#: Dependences/index.php:27
+#: Dependences/view.php:12
+#: Dependences/view.php:51
+#: ItemAnswers/edit.php:14
+#: ItemAnswers/index.php:37
+#: ItemAnswers/view.php:12
+#: Items/edit.php:14
+#: Items/index.php:37
+#: Items/view.php:12
+#: Items/view.php:99
+#: Locations/edit.php:14
+#: Locations/index.php:29
+#: Locations/view.php:12
+#: Locations/view.php:55
+#: Schools/edit.php:14
+#: Schools/index.php:29
+#: Schools/view.php:12
+#: Schools/view.php:53
+#: Students/edit.php:14
+#: Students/index.php:29
+#: Students/view.php:12
+#: Students/view.php:61
+#: Subjects/edit.php:14
+#: Subjects/index.php:27
+#: Subjects/view.php:12
+#: Subjects/view.php:67
+#: Users/edit.php:14
+#: Users/index.php:35
+#: Users/view.php:12
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: AssessmentTemplates/edit.php:23
+#: AssessmentTemplates/view.php:11
+msgid "Edit Assessment Template"
+msgstr ""
+
+#: AssessmentTemplates/index.php:8
+#: AssessmentTemplates/view.php:14
+msgid "New Assessment Template"
+msgstr ""
+
+#: AssessmentTemplates/index.php:9
+msgid "Assessment Templates"
+msgstr ""
+
+#: AssessmentTemplates/index.php:29
+#: AssessmentTemplates/view.php:73
+#: Assessments/index.php:37
+#: Assessments/view.php:77
+#: Assessments/view.php:104
+#: Assessments/view.php:139
+#: AssessmentsClassrooms/index.php:27
+#: AssesstementsItems/index.php:27
+#: Classrooms/index.php:27
+#: Classrooms/view.php:63
+#: Classrooms/view.php:90
+#: Departments/index.php:29
+#: Departments/view.php:73
+#: Departments/view.php:100
+#: Departments/view.php:133
+#: Dependences/index.php:25
+#: Dependences/view.php:49
+#: ItemAnswers/index.php:35
+#: Items/index.php:35
+#: Items/view.php:97
+#: Locations/index.php:27
+#: Locations/view.php:53
+#: Schools/index.php:27
+#: Schools/view.php:51
+#: Students/index.php:27
+#: Students/view.php:59
+#: Subjects/index.php:25
+#: Subjects/view.php:65
+#: Users/index.php:33
+msgid "View"
+msgstr ""
+
+#: AssessmentTemplates/index.php:30
+#: AssessmentTemplates/view.php:74
+#: Assessments/index.php:38
+#: Assessments/view.php:78
+#: Assessments/view.php:105
+#: Assessments/view.php:140
+#: AssessmentsClassrooms/index.php:28
+#: AssesstementsItems/index.php:28
+#: Classrooms/index.php:28
+#: Classrooms/view.php:64
+#: Classrooms/view.php:91
+#: Departments/index.php:30
+#: Departments/view.php:74
+#: Departments/view.php:101
+#: Departments/view.php:134
+#: Dependences/index.php:26
+#: Dependences/view.php:50
+#: ItemAnswers/index.php:36
+#: Items/index.php:36
+#: Items/view.php:98
+#: Locations/index.php:28
+#: Locations/view.php:54
+#: Schools/index.php:28
+#: Schools/view.php:52
+#: Students/index.php:28
+#: Students/view.php:60
+#: Subjects/index.php:26
+#: Subjects/view.php:66
+#: Users/index.php:34
+msgid "Edit"
+msgstr ""
+
+#: AssessmentTemplates/index.php:40
+#: Assessments/index.php:48
+#: AssessmentsClassrooms/index.php:38
+#: AssesstementsItems/index.php:38
+#: Classrooms/index.php:38
+#: Departments/index.php:40
+#: Dependences/index.php:36
+#: ItemAnswers/index.php:46
+#: Items/index.php:46
+#: Locations/index.php:38
+#: Schools/index.php:38
+#: Students/index.php:38
+#: Subjects/index.php:36
+#: Users/index.php:44
+msgid "first"
+msgstr ""
+
+#: AssessmentTemplates/index.php:41
+#: Assessments/index.php:49
+#: AssessmentsClassrooms/index.php:39
+#: AssesstementsItems/index.php:39
+#: Classrooms/index.php:39
+#: Departments/index.php:41
+#: Dependences/index.php:37
+#: ItemAnswers/index.php:47
+#: Items/index.php:47
+#: Locations/index.php:39
+#: Schools/index.php:39
+#: Students/index.php:39
+#: Subjects/index.php:37
+#: Users/index.php:45
+msgid "previous"
+msgstr ""
+
+#: AssessmentTemplates/index.php:43
+#: Assessments/index.php:51
+#: AssessmentsClassrooms/index.php:41
+#: AssesstementsItems/index.php:41
+#: Classrooms/index.php:41
+#: Departments/index.php:43
+#: Dependences/index.php:39
+#: ItemAnswers/index.php:49
+#: Items/index.php:49
+#: Locations/index.php:41
+#: Schools/index.php:41
+#: Students/index.php:41
+#: Subjects/index.php:39
+#: Users/index.php:47
+msgid "next"
+msgstr ""
+
+#: AssessmentTemplates/index.php:44
+#: Assessments/index.php:52
+#: AssessmentsClassrooms/index.php:42
+#: AssesstementsItems/index.php:42
+#: Classrooms/index.php:42
+#: Departments/index.php:44
+#: Dependences/index.php:40
+#: ItemAnswers/index.php:50
+#: Items/index.php:50
+#: Locations/index.php:42
+#: Schools/index.php:42
+#: Students/index.php:42
+#: Subjects/index.php:40
+#: Users/index.php:48
+msgid "last"
+msgstr ""
+
+#: AssessmentTemplates/index.php:46
+#: Assessments/index.php:54
+#: AssessmentsClassrooms/index.php:44
+#: AssesstementsItems/index.php:44
+#: Classrooms/index.php:44
+#: Departments/index.php:46
+#: Dependences/index.php:42
+#: ItemAnswers/index.php:52
+#: Items/index.php:52
+#: Locations/index.php:44
+#: Schools/index.php:44
+#: Students/index.php:44
+#: Subjects/index.php:42
+#: Users/index.php:50
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr ""
+
+#: AssessmentTemplates/view.php:12
+msgid "Delete Assessment Template"
+msgstr ""
+
+#: AssessmentTemplates/view.php:22
+msgid "Title"
+msgstr ""
+
+#: AssessmentTemplates/view.php:26
+#: AssessmentTemplates/view.php:50
+#: Assessments/view.php:30
+#: Assessments/view.php:93
+#: Assessments/view.php:120
+#: AssessmentsClassrooms/view.php:30
+#: AssesstementsItems/view.php:30
+#: Classrooms/view.php:40
+#: Classrooms/view.php:79
+#: Departments/view.php:34
+#: Departments/view.php:44
+#: Departments/view.php:89
+#: Departments/view.php:116
+#: Dependences/view.php:26
+#: Dependences/view.php:36
+#: ItemAnswers/view.php:30
+#: Items/view.php:38
+#: Items/view.php:86
+#: Locations/view.php:26
+#: Locations/view.php:40
+#: Schools/view.php:30
+#: Students/view.php:30
+#: Students/view.php:40
+#: Subjects/view.php:26
+#: Subjects/view.php:36
+#: Users/view.php:42
+msgid "Id"
+msgstr ""
+
+#: AssessmentTemplates/view.php:30
+#: AssessmentTemplates/view.php:57
+#: Assessments/view.php:46
+#: Classrooms/view.php:47
+msgid "Created"
+msgstr ""
+
+#: AssessmentTemplates/view.php:34
+#: AssessmentTemplates/view.php:58
+#: Assessments/view.php:50
+#: Classrooms/view.php:48
+msgid "Modified"
+msgstr ""
+
+#: AssessmentTemplates/view.php:39
+#: AssessmentTemplates/view.php:53
+#: Assessments/view.php:55
+#: Classrooms/view.php:43
+msgid "Guidelines"
+msgstr ""
+
+#: AssessmentTemplates/view.php:45
+#: Classrooms/view.php:35
+msgid "Related Assessments"
+msgstr ""
+
+#: AssessmentTemplates/view.php:51
+#: Classrooms/view.php:41
+msgid "Assessment Template Id"
+msgstr ""
+
+#: AssessmentTemplates/view.php:52
+#: Assessments/view.php:26
+#: Classrooms/view.php:42
+msgid "Token"
+msgstr ""
+
+#: AssessmentTemplates/view.php:54
+#: Assessments/view.php:38
+#: Classrooms/view.php:44
+msgid "Starts At"
+msgstr ""
+
+#: AssessmentTemplates/view.php:55
+#: Assessments/view.php:42
+#: Classrooms/view.php:45
+msgid "Ends At"
+msgstr ""
+
+#: AssessmentTemplates/view.php:56
+#: Assessments/view.php:34
+#: Assessments/view.php:126
+#: Classrooms/view.php:46
+#: ItemAnswers/view.php:42
+#: Students/view.php:46
+msgid "Duration"
+msgstr ""
+
+#: Assessments/add.php:11
+#: Assessments/edit.php:16
+#: Assessments/view.php:13
+msgid "List Assessments"
+msgstr ""
+
+#: Assessments/add.php:18
+msgid "Add Assessment"
+msgstr ""
+
+#: Assessments/edit.php:23
+#: Assessments/view.php:11
+msgid "Edit Assessment"
+msgstr ""
+
+#: Assessments/index.php:8
+#: Assessments/view.php:14
+msgid "New Assessment"
+msgstr ""
+
+#: Assessments/index.php:9
+msgid "Assessments"
+msgstr ""
+
+#: Assessments/view.php:12
+msgid "Delete Assessment"
+msgstr ""
+
+#: Assessments/view.php:22
+msgid "Assessment Template"
+msgstr ""
+
+#: Assessments/view.php:61
+#: Schools/view.php:35
+msgid "Related Classrooms"
+msgstr ""
+
+#: Assessments/view.php:66
+#: Classrooms/view.php:30
+#: Schools/view.php:40
+msgid "ID"
+msgstr ""
+
+#: Assessments/view.php:67
+#: Classrooms/view.php:22
+#: Classrooms/view.php:81
+#: Departments/view.php:30
+#: Departments/view.php:47
+#: Departments/view.php:90
+#: Departments/view.php:118
+#: Dependences/view.php:22
+#: Dependences/view.php:39
+#: Items/view.php:30
+#: Locations/view.php:22
+#: Locations/view.php:43
+#: Schools/view.php:22
+#: Schools/view.php:41
+#: Students/view.php:26
+#: Subjects/view.php:22
+#: Subjects/view.php:39
+#: Users/view.php:26
+msgid "Name"
+msgstr ""
+
+#: Assessments/view.php:68
+#: Schools/view.php:42
+msgid "School Id"
+msgstr ""
+
+#: Assessments/view.php:88
+#: Items/view.php:81
+msgid "Related Assesstements Items"
+msgstr ""
+
+#: Assessments/view.php:94
+#: Items/view.php:87
+msgid "Item Id"
+msgstr ""
+
+#: Assessments/view.php:95
+#: Assessments/view.php:122
+#: Items/view.php:88
+#: Students/view.php:42
+msgid "Assessment Id"
+msgstr ""
+
+#: Assessments/view.php:115
+#: Students/view.php:35
+msgid "Related Item Answers"
+msgstr ""
+
+#: Assessments/view.php:121
+#: Students/view.php:41
+msgid "Student Id"
+msgstr ""
+
+#: Assessments/view.php:123
+#: ItemAnswers/view.php:34
+#: Students/view.php:43
+msgid "Question Id"
+msgstr ""
+
+#: Assessments/view.php:124
+#: ItemAnswers/view.php:46
+#: Students/view.php:44
+msgid "DateTime"
+msgstr ""
+
+#: Assessments/view.php:125
+#: ItemAnswers/view.php:38
+#: Students/view.php:45
+msgid "Answer"
+msgstr ""
+
+#: AssessmentsClassrooms/add.php:11
+#: AssessmentsClassrooms/edit.php:16
+#: AssessmentsClassrooms/view.php:13
+msgid "List Assessments Classrooms"
+msgstr ""
+
+#: AssessmentsClassrooms/add.php:18
+msgid "Add Assessments Classroom"
+msgstr ""
+
+#: AssessmentsClassrooms/edit.php:23
+#: AssessmentsClassrooms/view.php:11
+msgid "Edit Assessments Classroom"
+msgstr ""
+
+#: AssessmentsClassrooms/index.php:8
+#: AssessmentsClassrooms/view.php:14
+msgid "New Assessments Classroom"
+msgstr ""
+
+#: AssessmentsClassrooms/index.php:9
+msgid "Assessments Classrooms"
+msgstr ""
+
+#: AssessmentsClassrooms/view.php:12
+msgid "Delete Assessments Classroom"
+msgstr ""
+
+#: AssessmentsClassrooms/view.php:22
+#: AssesstementsItems/view.php:26
+#: ItemAnswers/view.php:26
+msgid "Assessment"
+msgstr ""
+
+#: AssessmentsClassrooms/view.php:26
+#: Students/view.php:22
+msgid "Classroom"
+msgstr ""
+
+#: AssesstementsItems/add.php:11
+#: AssesstementsItems/edit.php:16
+#: AssesstementsItems/view.php:13
+msgid "List Assesstements Items"
+msgstr ""
+
+#: AssesstementsItems/add.php:18
+msgid "Add Assesstements Item"
+msgstr ""
+
+#: AssesstementsItems/edit.php:23
+#: AssesstementsItems/view.php:11
+msgid "Edit Assesstements Item"
+msgstr ""
+
+#: AssesstementsItems/index.php:8
+#: AssesstementsItems/view.php:14
+msgid "New Assesstements Item"
+msgstr ""
+
+#: AssesstementsItems/index.php:9
+msgid "Assesstements Items"
+msgstr ""
+
+#: AssesstementsItems/view.php:12
+msgid "Delete Assesstements Item"
+msgstr ""
+
+#: AssesstementsItems/view.php:22
+msgid "Item"
+msgstr ""
+
+#: Classrooms/add.php:11
+#: Classrooms/edit.php:16
+#: Classrooms/view.php:13
+msgid "List Classrooms"
+msgstr ""
+
+#: Classrooms/add.php:18
+msgid "Add Classroom"
+msgstr ""
+
+#: Classrooms/edit.php:23
+#: Classrooms/view.php:11
+msgid "Edit Classroom"
+msgstr ""
+
+#: Classrooms/index.php:8
+#: Classrooms/view.php:14
+msgid "New Classroom"
+msgstr ""
+
+#: Classrooms/index.php:9
+msgid "Classrooms"
+msgstr ""
+
+#: Classrooms/view.php:12
+msgid "Delete Classroom"
+msgstr ""
+
+#: Classrooms/view.php:26
+msgid "School"
+msgstr ""
+
+#: Classrooms/view.php:74
+msgid "Related Students"
+msgstr ""
+
+#: Classrooms/view.php:80
+msgid "Classroom Id"
+msgstr ""
+
+#: Departments/add.php:11
+#: Departments/edit.php:16
+#: Departments/view.php:13
+msgid "List Departments"
+msgstr ""
+
+#: Departments/add.php:18
+msgid "Add Department"
+msgstr ""
+
+#: Departments/edit.php:23
+#: Departments/view.php:11
+msgid "Edit Department"
+msgstr ""
+
+#: Departments/index.php:8
+#: Departments/view.php:14
+msgid "New Department"
+msgstr ""
+
+#: Departments/index.php:9
+msgid "Departments"
+msgstr ""
+
+#: Departments/view.php:12
+msgid "Delete Department"
+msgstr ""
+
+#: Departments/view.php:22
+msgid "Location"
+msgstr ""
+
+#: Departments/view.php:26
+#: Locations/view.php:30
+msgid "Dependence"
+msgstr ""
+
+#: Departments/view.php:39
+#: Subjects/view.php:31
+msgid "Related Items"
+msgstr ""
+
+#: Departments/view.php:45
+#: Departments/view.php:91
+#: Departments/view.php:117
+#: Subjects/view.php:37
+msgid "Department Id"
+msgstr ""
+
+#: Departments/view.php:46
+#: Subjects/view.php:38
+msgid "Subject Id"
+msgstr ""
+
+#: Departments/view.php:48
+#: Items/view.php:51
+#: Subjects/view.php:40
+msgid "Statement"
+msgstr ""
+
+#: Departments/view.php:49
+#: Items/view.php:57
+#: Subjects/view.php:41
+msgid "Option 1"
+msgstr ""
+
+#: Departments/view.php:50
+#: Items/view.php:63
+#: Subjects/view.php:42
+msgid "Option 2"
+msgstr ""
+
+#: Departments/view.php:51
+#: Items/view.php:69
+#: Subjects/view.php:43
+msgid "Option 3"
+msgstr ""
+
+#: Departments/view.php:52
+#: Items/view.php:75
+#: Subjects/view.php:44
+msgid "Option 4"
+msgstr ""
+
+#: Departments/view.php:53
+#: Items/view.php:42
+#: Subjects/view.php:45
+msgid "Correnct Answer"
+msgstr ""
+
+#: Departments/view.php:54
+#: Items/view.php:46
+#: Subjects/view.php:46
+msgid "Shareable"
+msgstr ""
+
+#: Departments/view.php:55
+#: Items/view.php:34
+#: Subjects/view.php:47
+msgid "Bncc Ref"
+msgstr ""
+
+#: Departments/view.php:84
+msgid "Related Schools"
+msgstr ""
+
+#: Departments/view.php:111
+msgid "Related Users"
+msgstr ""
+
+#: Departments/view.php:119
+#: Users/view.php:30
+msgid "Email"
+msgstr ""
+
+#: Departments/view.php:120
+#: Users/view.php:34
+msgid "Password"
+msgstr ""
+
+#: Departments/view.php:121
+#: Users/view.php:38
+msgid "Role"
+msgstr ""
+
+#: Dependences/add.php:11
+#: Dependences/edit.php:16
+#: Dependences/view.php:13
+msgid "List Dependences"
+msgstr ""
+
+#: Dependences/add.php:18
+msgid "Add Dependence"
+msgstr ""
+
+#: Dependences/edit.php:23
+#: Dependences/view.php:11
+msgid "Edit Dependence"
+msgstr ""
+
+#: Dependences/index.php:8
+#: Dependences/view.php:14
+msgid "New Dependence"
+msgstr ""
+
+#: Dependences/index.php:9
+msgid "Dependences"
+msgstr ""
+
+#: Dependences/view.php:12
+msgid "Delete Dependence"
+msgstr ""
+
+#: Dependences/view.php:31
+#: Locations/view.php:35
+msgid "Related Departments"
+msgstr ""
+
+#: Dependences/view.php:37
+#: Locations/view.php:41
+msgid "Location Id"
+msgstr ""
+
+#: Dependences/view.php:38
+#: Locations/view.php:42
+msgid "Dependence Id"
+msgstr ""
+
+#: ItemAnswers/add.php:11
+#: ItemAnswers/edit.php:16
+#: ItemAnswers/view.php:13
+msgid "List Item Answers"
+msgstr ""
+
+#: ItemAnswers/add.php:18
+msgid "Add Item Answer"
+msgstr ""
+
+#: ItemAnswers/edit.php:23
+#: ItemAnswers/view.php:11
+msgid "Edit Item Answer"
+msgstr ""
+
+#: ItemAnswers/index.php:8
+#: ItemAnswers/view.php:14
+msgid "New Item Answer"
+msgstr ""
+
+#: ItemAnswers/index.php:9
+msgid "Item Answers"
+msgstr ""
+
+#: ItemAnswers/view.php:12
+msgid "Delete Item Answer"
+msgstr ""
+
+#: ItemAnswers/view.php:22
+msgid "Student"
+msgstr ""
+
+#: Items/add.php:11
+#: Items/edit.php:16
+#: Items/view.php:13
+msgid "List Items"
+msgstr ""
+
+#: Items/add.php:18
+msgid "Add Item"
+msgstr ""
+
+#: Items/edit.php:23
+#: Items/view.php:11
+msgid "Edit Item"
+msgstr ""
+
+#: Items/index.php:8
+#: Items/view.php:14
+msgid "New Item"
+msgstr "Novo Item"
+
+#: Items/index.php:9
+msgid "Items"
+msgstr ""
+
+#: Items/view.php:12
+msgid "Delete Item"
+msgstr ""
+
+#: Items/view.php:22
+#: Schools/view.php:26
+#: Users/view.php:22
+msgid "Department"
+msgstr ""
+
+#: Items/view.php:26
+msgid "Subject"
+msgstr ""
+
+#: Items/view.php:47
+msgid "Yes"
+msgstr ""
+
+#: Items/view.php:47
+msgid "No"
+msgstr ""
+
+#: Locations/add.php:11
+#: Locations/edit.php:16
+#: Locations/view.php:13
+msgid "List Locations"
+msgstr ""
+
+#: Locations/add.php:18
+msgid "Add Location"
+msgstr ""
+
+#: Locations/edit.php:23
+#: Locations/view.php:11
+msgid "Edit Location"
+msgstr ""
+
+#: Locations/index.php:8
+#: Locations/view.php:14
+msgid "New Location"
+msgstr ""
+
+#: Locations/index.php:9
+msgid "Locations"
+msgstr ""
+
+#: Locations/view.php:12
+msgid "Delete Location"
+msgstr ""
+
+#: Schools/add.php:11
+#: Schools/edit.php:16
+#: Schools/view.php:13
+msgid "List Schools"
+msgstr ""
+
+#: Schools/add.php:18
+msgid "Add School"
+msgstr ""
+
+#: Schools/edit.php:23
+#: Schools/view.php:11
+msgid "Edit School"
+msgstr ""
+
+#: Schools/index.php:8
+#: Schools/view.php:14
+msgid "New School"
+msgstr ""
+
+#: Schools/index.php:9
+msgid "Schools"
+msgstr ""
+
+#: Schools/view.php:12
+msgid "Delete School"
+msgstr ""
+
+#: Students/add.php:11
+#: Students/edit.php:16
+#: Students/view.php:13
+msgid "List Students"
+msgstr ""
+
+#: Students/add.php:18
+msgid "Add Student"
+msgstr ""
+
+#: Students/edit.php:23
+#: Students/view.php:11
+msgid "Edit Student"
+msgstr ""
+
+#: Students/index.php:8
+#: Students/view.php:14
+msgid "New Student"
+msgstr ""
+
+#: Students/index.php:9
+msgid "Students"
+msgstr ""
+
+#: Students/view.php:12
+msgid "Delete Student"
+msgstr ""
+
+#: Subjects/add.php:11
+#: Subjects/edit.php:16
+#: Subjects/view.php:13
+msgid "List Subjects"
+msgstr ""
+
+#: Subjects/add.php:18
+msgid "Add Subject"
+msgstr ""
+
+#: Subjects/edit.php:23
+#: Subjects/view.php:11
+msgid "Edit Subject"
+msgstr ""
+
+#: Subjects/index.php:8
+#: Subjects/view.php:14
+msgid "New Subject"
+msgstr ""
+
+#: Subjects/index.php:9
+msgid "Subjects"
+msgstr ""
+
+#: Subjects/view.php:12
+msgid "Delete Subject"
+msgstr ""
+
+#: Users/add.php:11
+#: Users/edit.php:16
+#: Users/view.php:13
+msgid "List Users"
+msgstr ""
+
+#: Users/add.php:18
+msgid "Add User"
+msgstr ""
+
+#: Users/edit.php:23
+#: Users/view.php:11
+msgid "Edit User"
+msgstr ""
+
+#: Users/index.php:8
+#: Users/view.php:14
+msgid "New User"
+msgstr ""
+
+#: Users/index.php:9
+msgid "Users"
+msgstr ""
+
+#: Users/view.php:12
+msgid "Delete User"
+msgstr ""
+
+#: layout/error.php:38
+msgid "Back"
+msgstr ""
+
